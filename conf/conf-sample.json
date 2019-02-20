@@ -1,0 +1,18 @@
+{
+    "port": <service_port>,
+    "binpath": <bin_folder_path>,
+    "scatalog": <service_catalog_endpoint>,
+    "aprovider": "cas",
+    "aurl": <cas_server_url>,
+    "auser": <cas_user_for_servicecatalog>,
+    "apass": <cas_pass_for_servicecatalog>,
+    "aserviceID": <service_id>,
+    "acert": <certificate_for_servicecatalog>,
+    "confpath": <conf_file_path>,
+    "stage": <development_or_production>,
+    "cert": <certificate_path>,
+    "priv": <privkey_path>,
+    "chain": <certificate_chain_path>,
+    "mlab_path": <matlab_path>,
+    "broker": <mqtt_broker_url>
+}

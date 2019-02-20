@@ -1,0 +1,8 @@
+conf/conf.json
+__pycache__
+*.pyc
+play
+*.log
+results/.*
+mlab/PODResults/.*
+screenlog.*
